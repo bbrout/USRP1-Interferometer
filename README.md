@@ -1,4 +1,6 @@
 # USRP1-Interferometer
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15605316.svg)](https://doi.org/10.5281/zenodo.15605316)
+
 
 Software and data pipeline for a 21 cm hydrogen line interferometer using a USRP-1. Automates observation scheduling, LST-based data capture, spectral analysis, and visualization of galactic rotation profiles.
 
